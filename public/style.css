@@ -1,0 +1,25 @@
+body{
+    margin-left: 20px;
+}
+
+.chat{
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 18px;
+    display: inline-block;
+}
+
+.msg{
+    background-color: rgb(95, 95, 227);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 18px;
+}
+
+h3{
+    
+    color:rgb(95, 95, 227);
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
